@@ -28,7 +28,7 @@ Adafruit_BME280 bme;
 
 float temperature, humidity, pressure, altitude;
 
-/*Replace with your SSID & Password in the inverted commas*/
+/*Put your SSID & Password*/
 const char* ssid = "YourNetworkName";  // Enter SSID here
 const char* password = "YourPassword";  //Enter Password here
 
